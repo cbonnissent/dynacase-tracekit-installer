@@ -6,7 +6,7 @@
     <parameters>
         <param name="TraceKit" label="TraceKit download URL" type="text"
                volatile="yes" onupgrade="W"
-               default="ftp://ftp.anakeen.com/third-party/TraceKit-@VERSION@.zip"/>
+               default="http://ftp.dynacase.org/third-party/TraceKit-@VERSION@.zip"/>
     </parameters>
 
     <post-install>
